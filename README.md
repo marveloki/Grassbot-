@@ -4,10 +4,14 @@ Get yours: https://ko-fi.com/s/ee277e078e
 
 for support https://t.me/GrassbotFarmCommunity
 
+
 Description
 🤔 How To Do
 
+
 if you don't have a grass account yet, SignUp Here bit.ly/grassbot
+
+
 
 🔧 1. Install Python (if not already installed)
 Windows:
@@ -34,6 +38,7 @@ localStorage.getItem('userId');
 
 
 
+
 ⚙️ 3. Configure the Bot
 a) proxy.txt
 Put your proxy list in proxy.txt (one per line):
@@ -43,6 +48,8 @@ You can buy a proxy in proxy-sale.com
 EXEMPLE:
 
 socks5://
+
+
 
 
 
