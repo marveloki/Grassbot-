@@ -1,0 +1,60 @@
+Maximize your #GRASS potential! 🚀 Automate your connection & optimize uptime for rewards/airdrops with GrassbotFarm. Python script using proxies for stability.
+
+Get yours: https://ko-fi.com/s/ee277e078e
+
+Description
+🤔 How To Do
+
+if you don't have a grass account yet, SignUp Here bit.ly/grassbot
+
+🔧 1. Install Python (if not already installed)
+Windows:
+Download and install from: www.python.org/downloads
+
+During installation, make sure to check "Add Python to PATH" and click "Install Now
+
+EXEMPLE: C:\Users\Masde\Documents\grass\GrassBot
+
+pip install -r requirements.txt
+
+
+
+🧾 2. Get Your User ID from GetGrass
+Go to: app.getgrass.io/dashboard
+
+Open Developer Tools in your browser (usually by pressing F12 or right-clicking → "Inspect").
+
+Go to the Console tab.
+
+Paste this command or type it and press Enter:
+
+localStorage.getItem('userId');
+
+
+
+⚙️ 3. Configure the Bot
+a) proxy.txt
+Put your proxy list in proxy.txt (one per line):
+
+You can buy a proxy in proxy-sale.com
+
+EXEMPLE:
+
+socks5://
+
+
+
+
+4. Add USER IDs
+
+When you run the bot for the first time, it will ask or config "CONFIG.JSON" :
+
+CONFIG.JSON
+
+{
+"user_ids": [
+"PASTE_YOUR_USER_ID_HERE"
+]
+}
+
+Now Open the run.py
